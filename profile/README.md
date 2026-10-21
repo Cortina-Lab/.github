@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/345607808?v=4" width="120" alt="Cortina Lab logo">
+
 # Cortina Lab
 
 ### AI systems, built to spec. Shipped in weeks.
@@ -7,13 +9,24 @@
 High-performance AI systems, neuro-symbolic architectures & autonomous intelligent agents.<br>
 India · Remote worldwide · a [Lexcore Dev](https://lexcoredev.com/) studio
 
-[**Book a paid discovery call →**](https://lexcoredev.com/book.html) &nbsp;·&nbsp; [Full page](https://lexcoredev.com/cortinalab.html) &nbsp;·&nbsp; support@lexcoredev.com
+<a href="https://lexcoredev.com/book.html"><img src="https://img.shields.io/badge/status-available_for_new_projects-2ea44f?style=flat-square" alt="Available for new projects"></a>
+<img src="https://img.shields.io/badge/based_in-India_·_remote_worldwide-5980a6?style=flat-square" alt="India, remote worldwide">
+<img src="https://img.shields.io/badge/pricing-fixed--price_quotes-5980a6?style=flat-square" alt="Fixed-price quotes">
+
+[**Book a paid discovery call →**](https://lexcoredev.com/book.html) &nbsp;·&nbsp; [Full page](https://lexcoredev.com/cortinalab.html) &nbsp;·&nbsp; [WhatsApp](https://wa.me/917631251489) &nbsp;·&nbsp; support@lexcoredev.com
 
 <sub>45 minutes · $99, credited to your project if we work together.</sub>
 
 </div>
 
 ---
+
+## Why work with us
+
+- **100% source code delivered** — you own everything we build for you.
+- **Fixed-price quotes** — a written spec and a fixed price before work starts.
+- **30-day bug warranty** after handoff.
+- **Fast replies** — we aim to respond within 4 hours on working days.
 
 ## 01 · Services
 
@@ -54,13 +67,35 @@ India · Remote worldwide · a [Lexcore Dev](https://lexcoredev.com/) studio
 
 **01 Discovery call** — goals, constraints, timeline → **02 Scope & quote** — written spec with a fixed price → **03 Build sprints** — weekly demos on a live URL → **04 Handoff** — code, docs and a support window.
 
+## FAQ
+
+<details><summary><b>Who owns the code?</b></summary>
+You do. Full source code and handoff docs are delivered at the end of every project.
+</details>
+
+<details><summary><b>How does payment work?</b></summary>
+An advance to start, then the rest by milestone, as written in the quote. Invoices come from Lexcore Enterprises Pvt. Ltd., a GST-registered company in India.
+</details>
+
+<details><summary><b>How long does a project take?</b></summary>
+It depends on scope. You get the timeline in writing with the quote, and you see weekly demos on a live URL during the build.
+</details>
+
+<details><summary><b>What happens after handoff?</b></summary>
+A 30-day bug warranty is included. For ongoing work, the monthly retainer covers priority bug fixes and small features.
+</details>
+
+<details><summary><b>How do I start?</b></summary>
+<a href="https://lexcoredev.com/book.html">Book a discovery call</a> or message us on <a href="https://wa.me/917631251489">WhatsApp</a>.
+</details>
+
 ---
 
 <div align="center">
 
 **Have a build in mind?** Book a call, bring the problem, leave with a scoped plan and a fixed quote.
 
-[Book a call](https://lexcoredev.com/book.html) · [lexcoredev.com](https://lexcoredev.com/) · [LinkedIn](https://www.linkedin.com/in/cortina-infinity-b35973421)
+[Book a call](https://lexcoredev.com/book.html) · [WhatsApp](https://wa.me/917631251489) · [lexcoredev.com](https://lexcoredev.com/) · [LinkedIn](https://www.linkedin.com/in/cortina-infinity-b35973421)
 
 <sub>© 2026 Lexcore Enterprises Pvt. Ltd. · Cortina Lab is a Lexcore Dev studio.</sub>
 
