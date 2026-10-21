@@ -62,6 +62,12 @@ India · Remote worldwide · a [Lexcore Dev](https://lexcoredev.com/) studio
 
 <sub>Showcase repos present live products; application source code stays private. CRM screenshots use fictional demo clients.</sub>
 
+## Open source
+
+| Project | What it is | Links |
+|---|---|---|
+| **Cortina Vector** | Local-first SVG vector editor that runs in the browser — no install, no account. Apache-2.0. | [Repo](https://github.com/Cortina-Lab/cortina-vector) · [**Try it live**](https://cortina-lab.github.io/cortina-vector/) |
+
 ## 04 · Tech stack
 
 **AI / LLM** — LLM APIs · RAG · Agents · Evals · LoRA fine-tuning<br>
