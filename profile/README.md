@@ -13,9 +13,9 @@ India · Remote worldwide · a [Lexcore Dev](https://lexcoredev.com/) studio
 <img src="https://img.shields.io/badge/based_in-India_·_remote_worldwide-5980a6?style=flat-square" alt="India, remote worldwide">
 <img src="https://img.shields.io/badge/pricing-fixed--price_quotes-5980a6?style=flat-square" alt="Fixed-price quotes">
 
-[**Book a paid discovery call →**](https://lexcoredev.com/book.html) &nbsp;·&nbsp; [Full page](https://lexcoredev.com/cortinalab.html) &nbsp;·&nbsp; [WhatsApp](https://wa.me/917631251489) &nbsp;·&nbsp; support@lexcoredev.com
+[**Start a project →**](https://lexcoredev.com/book.html) &nbsp;·&nbsp; [Full page](https://lexcoredev.com/cortinalab.html) &nbsp;·&nbsp; [WhatsApp](https://wa.me/917631251489) &nbsp;·&nbsp; support@lexcoredev.com
 
-<sub>45 minutes · $99, credited to your project if we work together.</sub>
+<sub>Pick a package, lock the scope and pay the advance — or message us for a custom fixed quote.</sub>
 
 </div>
 
@@ -65,7 +65,7 @@ India · Remote worldwide · a [Lexcore Dev](https://lexcoredev.com/) studio
 
 ## 05 · How an engagement runs
 
-**01 Discovery call** — goals, constraints, timeline → **02 Scope & quote** — written spec with a fixed price → **03 Build sprints** — weekly demos on a live URL → **04 Handoff** — code, docs and a support window.
+**01 Intro & scope** — goals, constraints, timeline → **02 Scope & quote** — written spec with a fixed price → **03 Build sprints** — weekly demos on a live URL → **04 Handoff** — code, docs and a support window.
 
 ## FAQ
 
@@ -86,16 +86,16 @@ A 30-day bug warranty is included. For ongoing work, the monthly retainer covers
 </details>
 
 <details><summary><b>How do I start?</b></summary>
-<a href="https://lexcoredev.com/book.html">Book a discovery call</a> or message us on <a href="https://wa.me/917631251489">WhatsApp</a>.
+<a href="https://lexcoredev.com/book.html">Start a project</a> or message us on <a href="https://wa.me/917631251489">WhatsApp</a>.
 </details>
 
 ---
 
 <div align="center">
 
-**Have a build in mind?** Book a call, bring the problem, leave with a scoped plan and a fixed quote.
+**Have a build in mind?** Bring the problem, leave with a scoped plan and a fixed quote.
 
-[Book a call](https://lexcoredev.com/book.html) · [WhatsApp](https://wa.me/917631251489) · [lexcoredev.com](https://lexcoredev.com/) · [LinkedIn](https://www.linkedin.com/in/cortina-infinity-b35973421)
+[Start a project](https://lexcoredev.com/book.html) · [WhatsApp](https://wa.me/917631251489) · [lexcoredev.com](https://lexcoredev.com/) · [LinkedIn](https://www.linkedin.com/in/cortina-infinity-b35973421)
 
 <sub>© 2026 Lexcore Enterprises Pvt. Ltd. · Cortina Lab is a Lexcore Dev studio.</sub>
 
