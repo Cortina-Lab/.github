@@ -49,12 +49,18 @@ India · Remote worldwide · a [Lexcore Dev](https://lexcoredev.com/) studio
 
 ## 03 · Proof of work — live on Google Play
 
-| Project | What it is | |
+| Project | What it is | Links |
 |---|---|---|
-| **Silicon AI** | Premium AI chat app with real-time streaming replies, plus photo and document scanning. | [Play&nbsp;Store](https://play.google.com/store/apps/details?id=com.lexcore.silicon_ai) |
-| **Thali Calorie** | Snap a full Indian thali and get a per-dish calorie range, with voice logging in Hindi and English. | [Play&nbsp;Store](https://play.google.com/store/apps/details?id=com.lexcore.thali_calorie) |
-| **Naira AI** | Hinglish-native AI companion with memory, safety rules and in-app reporting of AI answers. | [Play&nbsp;Store](https://play.google.com/store/apps/details?id=com.lexcore.nira_ai) |
-| **Lexcore Dev** | Client portal: track a custom software project — milestones, quotes and updates in one place. | [Play&nbsp;Store](https://play.google.com/store/apps/details?id=com.lexcore.lexcore_dev_app) |
+| **Lexcore Dev — Client Portal + CRM** | Clients track their project; the team runs projects, clients and quotations in a built-in CRM. | [Repo](https://github.com/Cortina-Lab/lexcore-dev-crm) · [Play&nbsp;Store](https://play.google.com/store/apps/details?id=com.lexcore.lexcore_dev_app) |
+| **Silicon AI** | Premium AI chat app with real-time streaming replies, plus photo and document scanning. | [Repo](https://github.com/Cortina-Lab/silicon-ai) · [Play&nbsp;Store](https://play.google.com/store/apps/details?id=com.lexcore.silicon_ai) |
+| **Thali Calorie** | Snap a full Indian thali and get a per-dish calorie range, with voice logging in Hindi and English. | [Repo](https://github.com/Cortina-Lab/thali-calorie) · [Play&nbsp;Store](https://play.google.com/store/apps/details?id=com.lexcore.thali_calorie) |
+| **Naira AI** | Hinglish-native AI companion with memory, safety rules and in-app reporting of AI answers. | [Repo](https://github.com/Cortina-Lab/naira-ai) · [Play&nbsp;Store](https://play.google.com/store/apps/details?id=com.lexcore.nira_ai) |
+
+### CRM demo (sample data)
+
+<a href="https://github.com/Cortina-Lab/lexcore-dev-crm"><img src="https://raw.githubusercontent.com/Cortina-Lab/lexcore-dev-crm/main/assets/crm_1.png" width="160"> <img src="https://raw.githubusercontent.com/Cortina-Lab/lexcore-dev-crm/main/assets/crm_2.png" width="160"> <img src="https://raw.githubusercontent.com/Cortina-Lab/lexcore-dev-crm/main/assets/crm_3.png" width="160"> <img src="https://raw.githubusercontent.com/Cortina-Lab/lexcore-dev-crm/main/assets/crm_4.png" width="160"></a>
+
+<sub>Showcase repos present live products; application source code stays private. CRM screenshots use fictional demo clients.</sub>
 
 ## 04 · Tech stack
 
