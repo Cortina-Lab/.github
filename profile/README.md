@@ -38,10 +38,10 @@ India · Remote worldwide · a [Lexcore Dev](https://lexcoredev.com/) studio
 
 | Project | What it is | |
 |---|---|---|
-| **Silicon AI** | Premium AI chat app with real-time streaming replies, plus photo and document scanning. | [Google Play ↗](https://play.google.com/store/apps/details?id=com.lexcore.silicon_ai) |
-| **Thali Calorie** | Snap a full Indian thali and get a per-dish calorie range, with voice logging in Hindi and English. | [Google Play ↗](https://play.google.com/store/apps/details?id=com.lexcore.thali_calorie) |
-| **Naira AI** | Hinglish-native AI companion with memory, safety rules and in-app reporting of AI answers. | [Google Play ↗](https://play.google.com/store/apps/details?id=com.lexcore.nira_ai) |
-| **Lexcore Dev** | Client portal: track a custom software project — milestones, quotes and updates in one place. | [Google Play ↗](https://play.google.com/store/apps/details?id=com.lexcore.lexcore_dev_app) |
+| **Silicon AI** | Premium AI chat app with real-time streaming replies, plus photo and document scanning. | [Play&nbsp;Store](https://play.google.com/store/apps/details?id=com.lexcore.silicon_ai) |
+| **Thali Calorie** | Snap a full Indian thali and get a per-dish calorie range, with voice logging in Hindi and English. | [Play&nbsp;Store](https://play.google.com/store/apps/details?id=com.lexcore.thali_calorie) |
+| **Naira AI** | Hinglish-native AI companion with memory, safety rules and in-app reporting of AI answers. | [Play&nbsp;Store](https://play.google.com/store/apps/details?id=com.lexcore.nira_ai) |
+| **Lexcore Dev** | Client portal: track a custom software project — milestones, quotes and updates in one place. | [Play&nbsp;Store](https://play.google.com/store/apps/details?id=com.lexcore.lexcore_dev_app) |
 
 ## 04 · Tech stack
 
