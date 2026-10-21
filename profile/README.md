@@ -107,7 +107,7 @@ A 30-day bug warranty is included. For ongoing work, the monthly retainer covers
 
 **Have a build in mind?** Bring the problem, leave with a scoped plan and a fixed quote.
 
-[Start a project](https://lexcoredev.com/book.html) · [WhatsApp](https://wa.me/917631251489) · [lexcoredev.com](https://lexcoredev.com/) · [LinkedIn](https://www.linkedin.com/in/cortina-infinity-b35973421)
+[Start a project](https://lexcoredev.com/book.html) · [WhatsApp](https://wa.me/917631251489) · [lexcoredev.com](https://lexcoredev.com/) · [LinkedIn](https://www.linkedin.com/in/raj-kiran-sharma-b35973421)
 
 <sub>© 2026 Lexcore Enterprises Pvt. Ltd. · Cortina Lab is a Lexcore Dev studio.</sub>
 
