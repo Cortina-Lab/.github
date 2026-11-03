@@ -29,6 +29,32 @@ We don't wait to be invited — we enter. Current fight: **Meta Global AI Develo
 
 ---
 
+## The Cortina AI Family
+
+<table>
+<tr><td>
+
+### 🧠 Cortina AI Cyberbrain — the core
+**Not a product. Not a chatbot.** A sovereign, layered intelligence designed to think, remember and evolve across decades — the core the whole Cortina ecosystem is being built around, and every Cortina AI below connects to.
+
+`CORE` · `RESEARCH · IN DEVELOPMENT` &nbsp; → [cortinacyberbrain.com](https://cortinacyberbrain.com)
+
+</td></tr>
+</table>
+
+| | AI | Role | Status |
+|---|---|---|---|
+| 👻 | **Cortina Zero** | Personal soul — a model being built from scratch, with no external AI provider | `SOVEREIGN · R&D` |
+| 💬 | **Naira AI** | Public face — Hindi + English conversational companion. *"Main Naira, yaar."* | `LIVE on Google Play` |
+| ⚡ | **AKIRA** | Autonomous director — builds and ships: fleet management, document intelligence, orchestration. *"I do not dream. I plan."* | `ACTIVE · internal` |
+| 🍃 | **APPLESEED** | Ghost keeper — carries reasoning and values across every session. *"The ghost that outlives every shell."* | `ACTIVE · internal` |
+| 🛡 | **AEGISCORE** | Infrastructure mind — backend systems and diagnostics. *"I am the foundation beneath the foundation."* | `ACTIVE · internal` |
+| 🌐 | **ROSETA** | Voice & bridge — language, translation and cultural intelligence. *"Complexity is a wall. I am the door."* | `ACTIVE · internal` |
+
+<sub>Internal systems are used inside Lexcore and are not public products. Research systems are under active development — no availability is implied.</sub>
+
+---
+
 ## Why work with us
 
 - **100% source code delivered** — you own everything we build for you.
