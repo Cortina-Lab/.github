@@ -21,6 +21,14 @@ India · Remote worldwide · a [Lexcore Dev](https://lexcoredev.com/) studio
 
 ---
 
+## In the arena
+
+<a href="https://johnappleseed.io/compete.html"><img src="assets/challenger-banner.jpg" alt="We enter. — Lexcore × Cortina, the challenger" width="100%"></a>
+
+We don't wait to be invited — we enter. Current fight: **Meta Global AI Developer Hackathon** with [**SayLedger**](https://github.com/Cortina-Lab/sayledger), a voice + vision credit book for small shops, built in the open. [The challenger page →](https://johnappleseed.io/compete.html)
+
+---
+
 ## Why work with us
 
 - **100% source code delivered** — you own everything we build for you.
